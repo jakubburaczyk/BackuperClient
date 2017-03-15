@@ -1,0 +1,5 @@
+#Tue Nov 22 23:29:33 CET 2016
+nazwa_uzytkownika=domyslny
+port_nasluchiwania=9999
+adres_serwera=localhost
+

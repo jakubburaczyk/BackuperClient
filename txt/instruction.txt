@@ -1,0 +1,32 @@
+Program Backuper
+Działanie programu polega na archiwizacji plików klienta w "chmurze". 
+
+Obsługa programu:
+1) Pierwszym etapem jest konfiguracja połączenia z serwerem. W tym 
+celu należy wybrać menu Start -> Ustawienia połączenia. Pojawi się 
+okno, w którym użytkownik może ustawić adres serwera, którym chce 
+się połączyć, numer portu na którym ten serwer będzie nasłuchiwał 
+na nawiązanie połączenia oraz nazwę użytkownika (swój login do
+zalogowania się do serwera). Następnie należy wcisnąć przycisk OK 
+aby zatwierdzić wprowadzone dane.
+
+2) Drugim etapem jest nawiązanie połączenia z serwerem. Aby to zrobić 
+należy kliknąć przycisk "Połącz z serwerem" zajmujący prawą połowę okna 
+programu. Jeśli serwer jest aktywny i wprowadzone przez użytkownika 
+ustawienia są poprawne to połączenie zostanie nawiązane. W zależności 
+od tego, czy dany użytkownik (o danym loginie) łączył się już z 
+serwerem, czy nie, serwer zareaguje w inny sposób. Nowy użytkownik 
+zostanie poproszony o założenie hasła, które będzie wykorzystywane przy 
+następnym próbach komunikacji. Uzytkownik "znany" serwerowi zostanie 
+natomiast poproszony o podanie swojego hasła. Gdy weryfikacja hasła 
+przebiegnie pomyślnie użytkownik uzyska dostęp do swojego folderu na 
+serwerze.
+
+3) Po połączeniu z serwerem użytkownik może zarchiwizować na serwerze 
+wybrany przez siebie plik oraz pobrać lub usunąć wybrany plik z serwera.
+Każda z operacji na bieżąco aktualizuje widok drzew plików w oknie 
+programu.
+
+4) Aby rozłączyć się z serwerem należy wybrać menu 
+Start -> Rozłącz z serwerem. Wyłączenie programu Backuper również 
+spowoduje zakończenie połączenia.

@@ -1,0 +1,11 @@
+*********************************
+Log z dnia: 22/02/2017 | 23:39:30
+Katalog domowy: /home/jakub
+Wiadomosc do serwera: login domyslny
+Wiadomosc od serwera: password
+Wiadomosc do serwera: abc
+Wiadomosc od serwera: loggedin (ver.1)instrukcja.pdf (ver.1)_____68_II_1920_1080.jpg (ver.1)BackuperKlient.jar 
+Dodaje pliki: (ver.1)instrukcja.pdf
+Dodaje pliki: (ver.1)_____68_II_1920_1080.jpg
+Dodaje pliki: (ver.1)BackuperKlient.jar
+Wiadomosc do serwera: stop
