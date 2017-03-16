@@ -34,7 +34,6 @@ public abstract class BaseWindow extends JFrame {
 		setLocationRelativeTo(null);
 		setResizable(isResizable);		
 		setMinimumSize(new Dimension(200,100));
-		
 		try {
 			Image logo=ImageIO.read(new File(pathToIcon));
 			setIconImage(logo);
